@@ -1,6 +1,6 @@
 package week4practice;
 
-public class Week4Practice {
+public class Startup {
 
     public static void main(String[] args) {
         // TODO code application logic here
